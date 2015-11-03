@@ -1,0 +1,11 @@
+{
+  "name": "ejemplo-bower",
+  "private" : "true",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies" : {
+    "bower" : "1.6.5"
+  }
+}
